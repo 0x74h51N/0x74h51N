@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tahsin
 - 👨🏼‍💻 I'm a pixel perfectionist Frontend Developer
 - 🔭 I'm currently looking for opportunities to work on exciting projects
-- 👨🏻‍🎓 I’m currently and diving into Solidity and Web 3.0 technologies
+- 👨🏻‍🎓 I’m learning and diving into Solidity and Web 3.0 technologies
 - 🔭 I'm interested in collaborating on the development of decentralized applications (dApps)
 - 📫 You can reach me by  [email](mailto:ric0ch3t.biscuit@gmail.com)
 
