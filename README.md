@@ -3,7 +3,7 @@
 - 🔭 I'm currently looking for opportunities to work on exciting projects
 - 👨🏻‍🎓 I’m learning and diving into Solidity and Web 3.0 technologies
 - 🔭 I'm interested in collaborating on the development of decentralized applications (dApps)
-- 📫 You can reach me on [freelancer.com](https://www.freelancer.com/u/TahsinDev?frm=TahsinDev&sb=t)
+- 📫 You can reach me by [email](mailto:ric0ch3t.biscuit@gmail.com)
 
 **🏗 Let's build something amazing together! Feel free to get in touch.**
 
