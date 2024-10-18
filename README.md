@@ -57,7 +57,6 @@
 ![Cloudinary](https://img.shields.io/badge/cloudinary-%233498DB.svg?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Zustand](https://img.shields.io/badge/zustand-%2300bfa6.svg?style=for-the-badge&logo=zustand&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Prismic](https://img.shields.io/badge/prismic-%2333A9DC.svg?style=for-the-badge&logo=prismic&logoColor=white)
 ![Auth0](https://img.shields.io/badge/auth0-%23000000.svg?style=for-the-badge&logo=auth0&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
